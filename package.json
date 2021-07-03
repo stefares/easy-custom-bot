@@ -1,0 +1,25 @@
+{
+  "name": "easy-custom-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot which was made for people who can't code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symbat3299/easy-custom-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Symbat#3299",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/symbat3299/easy-custom-bot/issues"
+  },
+  "homepage": "https://github.com/symbat3299/easy-custom-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
